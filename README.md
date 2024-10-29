@@ -17,7 +17,7 @@ Using machine learning models, the system continuously monitors equipment health
 ## Requirements
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) to ensure compatibility with blockchain integration and machine learning models used for predictive maintenance.
 * Development Environment: Python 3.8 or later is recommended to code the decentralized predictive maintenance application effectively.
-* Ensemble Learning Framework: TensorFlow for model training, Random Forest Classifier for Prediction and Classification.
+* Ensemble Learning Framework: Random Forest Classifier for Prediction and Classification.
 * Data Processing Libraries: andas and NumPy are essential for handling time-series data and performing real-time data analysis.
 * Blockchain Libraries: Integration of Ethereum libraries like Web3.py to facilitate blockchain transactions and manage decentralized data securely.
 * Version Control: Implementation of Git for collaborative development and effective code management.
