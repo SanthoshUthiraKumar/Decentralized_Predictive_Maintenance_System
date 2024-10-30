@@ -102,8 +102,7 @@ function Home() {
             <h3>Team Members</h3>
             <p>Santhosh U</p><br />
             <p>Sri Karthickeyan Ganapathy</p><br />
-            <p>Naveen Kumar P</p><br />
-            <p>Manoj Karthik R</p><br />
+            <p>Jayachandran M</p><br />
           </div>
           <div className="footer-card">
             <h3>Get in touch</h3>
